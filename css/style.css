@@ -48,7 +48,7 @@ li.nav-item{
     display: flex;
     align-items: center;
 }
-.selelangusec .form-control{
+.selelangusec .form-select{
     border: 0px;
     font-family:'Open Sans';
     background-color: #D9D9D9;
@@ -593,4 +593,12 @@ color: #fff;
 .seccontbtn:hover{
   background-color: #5a617e;
   color: #fff;
+}
+/* bacies page apply */
+.secbasictit{
+  font-family:'Open Sans';
+  font-size: 50px;
+  color: #000;
+  text-align: center;
+  padding-bottom: 50px;
 }
