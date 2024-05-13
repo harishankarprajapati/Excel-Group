@@ -693,6 +693,7 @@ input.subscribe__input:focus-visible {
   font-family: 'Open Sans';
   font-size: 20px;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .seccontbtn:hover {
@@ -769,4 +770,22 @@ input.subscribe__input:focus-visible {
   font-size: 50px;
   text-align: center;
   color: #000;
+  padding-top: 50px;
+}
+.sevedeta{
+  padding: 20px 10px 60px 10px;
+  margin: auto;
+  width: 70%;
+}
+.seclgbg22{
+  padding: 50px 10px;
+}
+.sbbpbtn{
+  padding: 30px 0px;
+}
+.mainroimg{
+  display: flex;
+}
+.mobilesec{
+  display: none;
 }
