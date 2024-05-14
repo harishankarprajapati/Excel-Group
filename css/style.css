@@ -74,6 +74,7 @@ li.nav-item.secwhatshap a i {
 
 .sechermaian {
   margin-top: -135px;
+  padding: 0px 50px;
 }
 
 .sliderbgg {
@@ -81,6 +82,7 @@ li.nav-item.secwhatshap a i {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 50px;
+
 
 }
 
@@ -96,6 +98,7 @@ li.nav-item.secwhatshap a i {
 
 .btnsecapp {
   padding-top: 50px;
+  padding-bottom: 30px;
 }
 
 .btnsecapp a {
@@ -160,6 +163,7 @@ li.nav-item.secwhatshap a i {
 .secreedbg {
   background: #CA3428;
   padding: 60px;
+margin: 0px 50px;
 }
 
 .secreedbg p {
@@ -172,6 +176,10 @@ li.nav-item.secwhatshap a i {
 .secblubg {
   background: #002E52;
   padding: 60px;
+  margin: 0px 50px;
+}
+.servesslider{
+  padding-top:30px;
 }
 
 .secblubg h4 {
@@ -363,7 +371,7 @@ li.nav-item.secwhatshap a i {
 
 .secunlocp2 {
   font-family: 'Open Sans';
-  font-size: 50px;
+  font-size: 55px;
   color: #fff;
   font-weight: 700;
 }
@@ -659,7 +667,7 @@ input.subscribe__input:focus-visible {
 }
 
 .seccontpadp {
-  padding-left: 25px;
+  padding-left: 35px;
   padding-right: 85px;
 }
 
@@ -673,7 +681,17 @@ input.subscribe__input:focus-visible {
   border: 1px solid #9E9E9E;
   font-family: 'Open Sans';
   margin-bottom: 20px;
+  padding-left: 0px;
 
+}
+.secontform ::placeholder{
+  padding-left: 10px;
+}
+.secontform .form-group.col-md-6{
+ padding-left: 0px;
+}
+.secontform .form-group.col-md-6.ss{
+padding-right: 0px;
 }
 
 .secontform textarea {
@@ -775,10 +793,10 @@ input.subscribe__input:focus-visible {
 .sevedeta{
   padding: 20px 10px 60px 10px;
   margin: auto;
-  width: 70%;
+  width: 90%;
 }
 .seclgbg22{
-  padding: 50px 10px;
+  padding: 50px 10px 40px 10px;
 }
 .sbbpbtn{
   padding: 30px 0px;
