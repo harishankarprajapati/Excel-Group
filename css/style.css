@@ -821,3 +821,21 @@ padding-right: 0px;
   margin: auto !important;
   padding-left: 250px;
 }
+.btn404secapp {
+ margin-top: -275px;
+ padding-left: 270px;
+  padding-bottom: 280px;
+}
+
+.btn404secapp a {
+  background-color: #5a617e;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn404secapp a:hover {
+  background: #CA3428;
+}
