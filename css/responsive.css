@@ -23,6 +23,14 @@
 
 
 @media only screen and (max-width:767px) {
+  .sec404sec{
+    margin-top:0px ;
+  }
+  .sec404sec img{
+    width: 100% !important ;
+    margin: auto !important;
+    padding-left: 25px;
+  }
   button.navbar-toggler {
     background: #000;
 }

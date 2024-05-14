@@ -99,7 +99,7 @@ li.nav-item.secwhatshap a i {
 
 .btnsecapp {
   padding-top: 50px;
-  padding-bottom: 30px;
+  padding-bottom: 80px;
 }
 
 .btnsecapp a {
@@ -257,6 +257,10 @@ margin: 0px 50px;
   /* display: flex;
   flex-direction: column;
   justify-content: center; */
+}
+.col-lg-6.secunlokbgg {
+  display: flex;
+  justify-content: flex-end;
 }
 
 .servbg img {
@@ -527,6 +531,7 @@ input.subscribe__input:focus-visible {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 60px;
+  margin: 0px 50px;
 }
 
 .Salientsecbg h3 {
@@ -807,4 +812,12 @@ padding-right: 0px;
 }
 .mobilesec{
   display: none;
+}
+.sec404sec{
+  margin-top:-100px ;
+}
+.sec404sec img{
+  width: 100% !important ;
+  margin: auto !important;
+  padding-left: 250px;
 }
