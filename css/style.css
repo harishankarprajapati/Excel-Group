@@ -611,6 +611,10 @@ a:hover{
   font-size: 20px;
   font-family: 'Open Sans';
   color: #373737;
+  line-height: 40px;
+}
+.col-lg-6.secadd {
+  padding-left: 0;
 }
 
 .secstrabgg {
@@ -652,6 +656,7 @@ a:hover{
   font-family: 'Open Sans';
   color: #000;
   padding-right: 150px;
+  line-height: 33px;
 }
 
 /* contact page */
