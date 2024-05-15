@@ -105,14 +105,14 @@ a.navbar-brand {
   padding-left: 0;
 }
 .secblubg h4 {
-  font-size: 25px;
+  font-size: 30px;
 }
 .secblubg p {
   font-size: 16px;
 }
 .secvrobord{
   border: 1px solid #ca3428;
-  padding: 10px;
+  padding: 17px 10px 10px 10px;
   margin-bottom: 30px;
 }
 .secvrobord img{
@@ -125,6 +125,16 @@ a.navbar-brand {
   padding: 40px 10px;
 }
 .secasspad h3 {
+  font-size: 35px;
+}
+p.secimgserv img {
+  width: 60%;
+  margin: auto;
+}
+p.secimgserv {
+  text-align: center;
+}
+.secvisi {
   font-size: 25px;
 }
 
@@ -182,9 +192,10 @@ display: none;
 .servesslider .owl-dots {
   padding-top: 0px;
 }
-.servbg p , .servbg a {
-  font-size: 16px;
+.servbg p  {
+  font-size: 22px;
 }
+
 .servbg {
   height: auto;
 }
@@ -232,18 +243,27 @@ display: none;
   line-height: 26px;
 }
 .secreqtit{
-  font-size: 22px;
+  font-size: 30px;
   padding-top: 30px;
+}
+.sevedeta label {
+  font-size: 20px;
 }
 .sevedeta {
   padding: 20px 10px 40px 10px;
   width: 100%;
 }
 .footertitt{
-  font-size: 22px;
+  font-size: 30px;
+  padding-top: 20px;
 }
 .seccontbtn {
   padding: 10px 20px;
+  margin-left: -2px;
+}
+.seccontbtn33 {
+  padding: 10px 20px;
+  margin-left: -2px;
 }
 a.dropdown-item{
   font-family: 'Open Sans';
@@ -295,7 +315,8 @@ ul.dropdown-menu.show {
   font-size: 17px;
 }
 .secconttii {
-  font-size: 25px;
+  font-size: 30px;
+  font-weight: 700;
 }
 .contsrctext h3 {
   font-size: 20px;

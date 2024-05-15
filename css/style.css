@@ -219,7 +219,7 @@ margin: 0px 50px;
 
 .secasspad h3 {
   font-family: 'Open Sans';
-  font-size: 30px;
+  font-size: 50px;
   color: #000;
   text-align: center;
   font-weight: 700;
@@ -747,7 +747,7 @@ padding-right: 0px;
   font-size: 20px;
   text-transform: uppercase;
   text-decoration: none;
-  margin-left: -10px;
+  margin-left: -10px !important;
 }
 
 .seccontbtn:hover {
@@ -755,6 +755,20 @@ padding-right: 0px;
   color: #fff;
 }
 
+.seccontbtn33 {
+  background-color: #CA3428;
+  padding: 15px 30px;
+  color: #fff;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.seccontbtn33:hover {
+  background-color: #5a617e;
+  color: #fff;
+}
 /* bacies page apply */
 .secbasictit {
   font-family: "Open Sans";
