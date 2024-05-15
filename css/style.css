@@ -495,7 +495,9 @@ a:hover{
   background-image: url(../images/tittlebackground.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 60px;
+  padding: 140px 60px;
+  width: 92%;
+  
 }
 
 .sechermaian2 h3 {
