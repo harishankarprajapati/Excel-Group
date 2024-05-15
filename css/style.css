@@ -75,7 +75,7 @@ li.nav-item.secwhatshap a i {
 
 .sechermaian {
   margin-top: -135px;
-  padding: 0px 50px;
+  /* padding: 0px 50px; */
 }
 
 .sliderbgg {
@@ -83,6 +83,7 @@ li.nav-item.secwhatshap a i {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 50px;
+  margin: 0px 50px;
 
 
 }
