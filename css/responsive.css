@@ -24,6 +24,9 @@
 
 
 @media only screen and (max-width:767px) {
+  button.navbar-toggler {
+    height: 50px;
+}
   .container-fluid.sec-menu-bgg {
     padding: 0px 8px 0px 8px;
 }
