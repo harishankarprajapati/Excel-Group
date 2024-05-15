@@ -237,7 +237,7 @@ margin: 0px 50px;
 .secFinancialbg {
   background-color: #ECECEC;
   padding: 210px 10px 60px 10px;
-  margin-top: -190px;
+  margin-top: -190px !important;
 }
 
 .secFinancialbg h3 {
