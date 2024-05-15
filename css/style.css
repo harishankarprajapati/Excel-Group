@@ -472,8 +472,10 @@ button.subscribe__btn {
   outline: none;
 }
 .sevedeta label{
-  font-weight: 700;
-  padding-left: 0;
+  font-weight: 500;
+  padding-left: 0px;
+  font-size: 25px;
+  color: #000;
 }
 .seccopy {
   font-size: 17px;
@@ -608,6 +610,10 @@ button.subscribe__btn {
 .secstrabgg {
   background-color: #002E52;
   padding: 60px 60px 0px 60px;
+  margin: 0px 50px;
+}
+.secimgwho{
+  display: flex;
 }
 
 .serratitt h3 {
@@ -621,6 +627,7 @@ button.subscribe__btn {
   font-size: 18px;
   font-family: 'Open Sans';
   color: #fff;
+  padding-bottom: 60px;
 }
 
 .secpeoplebg {
@@ -697,6 +704,9 @@ button.subscribe__btn {
   padding-left: 0px;
 
 }
+::placeholder{
+  font-size: 16px;
+}
 .secontform ::placeholder{
   padding-left: 10px;
 }
@@ -725,6 +735,7 @@ padding-right: 0px;
   font-size: 20px;
   text-transform: uppercase;
   text-decoration: none;
+  margin-left: -10px;
 }
 
 .seccontbtn:hover {
@@ -781,7 +792,7 @@ padding-right: 0px;
 }
 
 .seclgbg {
-  padding: 20px;
+  padding: 50px 20px 20px 20px ;
 }
 
 .seccortit {
