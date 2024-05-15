@@ -464,8 +464,12 @@ button.subscribe__btn {
   margin-left: -8px;
 }
 
-input.subscribe__input:focus-visible {
+/* :focus-visible {
   border: 0px !important;
+} */
+:focus-visible {
+  border: 1px dashed rgba(220, 20, 60, 0) !important;
+  outline: none;
 }
 
 .seccopy {
