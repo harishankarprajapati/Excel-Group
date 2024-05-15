@@ -50,10 +50,10 @@
     background: #000;
 }
 a.navbar-brand {
-  width: 40%;
+  width: 30%;
 }
 .sechermaian {
-  margin-top: -80px;
+  margin-top: -52px;
 }
 .secborder p {
   font-size: 11px;
@@ -182,7 +182,7 @@ display: none;
   height: auto;
 }
 .sechermaian2 {
-  margin-top: -80px;
+  margin-top: -52px;
   padding: 90px 10px 40px 10px;
 }
 .sechermaian2 h3 {
