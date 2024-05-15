@@ -607,12 +607,13 @@ a:hover{
   font-weight: 700;
 }
 
-.secehopp { 
+.secehopp{ 
   font-size: 20px;
   font-family: 'Open Sans';
   color: #373737;
   line-height: 40px;
 }
+
 .col-lg-6.secadd {
   padding-left: 0; 
 }
