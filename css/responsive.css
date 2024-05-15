@@ -24,6 +24,9 @@
 
 
 @media only screen and (max-width:767px) {
+  .container-fluid.sec-menu-bgg {
+    padding: 0px 8px 0px 8px;
+}
   .btn404secapp {
     margin-top: 0px;
     padding-left: 0px;
@@ -47,10 +50,10 @@
     background: #000;
 }
 a.navbar-brand {
-  width: 50%;
+  width: 43%;
 }
 .sechermaian {
-  margin-top: -100px;
+  margin-top: -90px;
 }
 .secborder p {
   font-size: 11px;
@@ -179,7 +182,7 @@ display: none;
   height: auto;
 }
 .sechermaian2 {
-  margin-top: -100px;
+  margin-top: -90px;
   padding: 90px 10px 40px 10px;
 }
 .sechermaian2 h3 {
